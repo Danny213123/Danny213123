@@ -1,5 +1,5 @@
 ###
-![](https://api.githubtrends.io/user/svg/Danny213123/langs?time_range=one_year&loc_metric=changed&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danny213123&&size_weight=0.5&count_weight=0.5&langs_count=20)](https://github.com/Danny213123/github-readme-stats)
 
 ###
 ![](https://komarev.com/ghpvc/?username=Danny213123)
